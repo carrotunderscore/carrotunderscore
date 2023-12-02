@@ -15,12 +15,13 @@ What I've done 🍇:
 
 ⚡ Technologies:  
 C#  
-java, 
-javascript
-bootstrap
-html/css
+Java   
+Javascript  
+Bootstrap  
+Html/Css  
 Android studio  
 
+  
 📫 How to reach me:   
 📞 Phone: +46 73 041 27 23  
 ✉️ E-mail: robertpergustafsson@gmail.com  
