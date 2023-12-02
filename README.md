@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋  
 
-📫 How to reach me: +46 73 041 2723, robertpergustafsson@gmail.com
+
+📫 How to reach me: +46 73 041 2723, robertpergustafsson@gmail.com  
+
 🔭 I’m currently working on a music player in C++!
 <!--
 **carrotunderscore/carrotunderscore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
