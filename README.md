@@ -14,7 +14,7 @@ What I've done 🍇:
 🔭 I’m currently working on a music player in C++!  
 
 ⚡ Technologies:  
-C#
+C#  
 java, 
 javascript
 bootstrap
