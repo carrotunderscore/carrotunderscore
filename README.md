@@ -9,8 +9,7 @@ Currently interested in audio signal processing. Doing a phase vocoder algorithm
 
 ## What I've done 🍇:  
 🏪 Store discounts     
-![Store discount card]([http://url/to/img.png](https://imgur.com/a/T6bNqB0))  
-
+![Model]([[Paste_link_here](https://i.imgur.com/2szLEcW.jpg)])  
 🎼 Music player
 
 🔭 I’m currently working on a music player in C++!  
