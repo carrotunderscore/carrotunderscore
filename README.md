@@ -1,9 +1,30 @@
 ### Hi there 👋  
 
+About me:  
+Passionate coder living in CPH!  
+🏔️ Love climbing  
 
-📫 How to reach me: +46 73 041 2723, robertpergustafsson@gmail.com  
+What I'm up to ❤️‍🔥:  
+Currently interested in audio signal processing. Doing a phase vocoder algorithm in C++  
 
-🔭 I’m currently working on a music player in C++!
+What I've done 🍇:  
+🏪 Store discounts    
+🎼 Music player
+
+🔭 I’m currently working on a music player in C++!  
+
+⚡ Technologies:  
+C#
+java, 
+javascript
+bootstrap
+html/css
+Android studio  
+
+📫 How to reach me:   
+📞 Phone: +46 73 041 27 23  
+✉️ E-mail: robertpergustafsson@gmail.com  
+
 <!--
 **carrotunderscore/carrotunderscore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
