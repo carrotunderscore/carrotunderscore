@@ -24,7 +24,9 @@ Android studio
   
 ## 📫 How to reach me:   
 📞 Phone: +46 73 041 27 23  
-✉️ E-mail: robertpergustafsson@gmail.com  
+✉️ E-mail: robertpergustafsson@gmail.com    
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp; LinkedIn: 
 
 <!--
 **carrotunderscore/carrotunderscore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
