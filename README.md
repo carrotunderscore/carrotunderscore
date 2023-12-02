@@ -24,7 +24,9 @@ Android studio
   
 ## 📫 How to reach me:   
 📞 Phone: +46 73 041 27 23  
-✉️ E-mail: robertpergustafsson@gmail.com    
+✉️ E-mail: robertpergustafsson@gmail.com     
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.youtube.com/)
+&nbsp;
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/robert-gustafsson-bba35b1ba/))
 &nbsp;
 
