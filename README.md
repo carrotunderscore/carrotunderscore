@@ -8,7 +8,9 @@ Passionate coder living in CPH!
 Currently interested in audio signal processing. Doing a phase vocoder algorithm in C++  
 
 ## What I've done 🍇:  
-🏪 Store discounts    
+🏪 Store discounts     
+![Store discount card]([http://url/to/img.png](https://imgur.com/a/T6bNqB0))  
+
 🎼 Music player
 
 🔭 I’m currently working on a music player in C++!  
