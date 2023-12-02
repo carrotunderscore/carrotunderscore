@@ -9,12 +9,12 @@ Currently interested in audio signal processing. Doing a phase vocoder algorithm
 
 ## What I've done 🍇:  
 ### 🏪 Store discounts     
-<img src="https://i.imgur.com/2szLEcW.jpg" width="200" height="450">    
-🎼 Music player </br>
-🏭 One Ami  
-<img src="https://i.imgur.com/RYUpuvn.png" width="900" height="450">
+<img src="https://i.imgur.com/2szLEcW.jpg" width="200" height="450">  
 
-🔭 I’m currently working on a music player in C++!  
+### 🏭 One Ami  
+<img src="https://i.imgur.com/RYUpuvn.png" width="900" height="450">  
+
+🔭 I’m currently working on a music player 🎼 in C++!  
 
 ## ⚡ Technologies
 C#  
