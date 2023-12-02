@@ -27,8 +27,7 @@ Android studio
 ✉️ E-mail: robertpergustafsson@gmail.com     
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/robert-gustafsson-bba35b1ba/)
 &nbsp;
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/robert-gustafsson-bba35b1ba/))
-&nbsp;
+
 
 <!--
 **carrotunderscore/carrotunderscore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
