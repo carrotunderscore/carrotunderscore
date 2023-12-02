@@ -1,19 +1,19 @@
 ### Hi there 👋  
 
-About me:  
+## About me:  
 Passionate coder living in CPH!  
 🏔️ Love climbing  
 
-What I'm up to ❤️‍🔥:  
+## What I'm up to ❤️‍🔥:  
 Currently interested in audio signal processing. Doing a phase vocoder algorithm in C++  
 
-What I've done 🍇:  
+## What I've done 🍇:  
 🏪 Store discounts    
 🎼 Music player
 
 🔭 I’m currently working on a music player in C++!  
 
-⚡ Technologies:  
+## ⚡ Technologies
 C#  
 Java   
 Javascript  
@@ -22,7 +22,7 @@ Html/Css
 Android studio  
 
   
-📫 How to reach me:   
+## 📫 How to reach me:   
 📞 Phone: +46 73 041 27 23  
 ✉️ E-mail: robertpergustafsson@gmail.com  
 
