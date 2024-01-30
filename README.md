@@ -5,7 +5,7 @@ Passionate coder living in CPH!
 🏔️ Love climbing  
 
 ## What I'm up to ❤️‍🔥:  
-Currently interested in audio signal processing. Doing a phase vocoder algorithm in C++  
+Creating a file organizer in C#. I'm inspired by the application WizTree!
 
 ## What I've done 🍇:  
 ### 🏪 Store discounts     
