@@ -14,7 +14,6 @@ Creating a file organizer in C#. I'm inspired by the application WizTree!
 ### 🏭 One Ami  
 <img src="https://i.imgur.com/RYUpuvn.png" width="900" height="450">  
 
-🔭 I’m currently working on a music player 🎼 in C++!  
 
 ## ⚡ Technologies
 C#  
