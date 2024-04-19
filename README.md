@@ -9,7 +9,7 @@ Creating a portfolio website using Django in Python!
 
 ## What I've done 🍇:  
 ## Django webpage
-<img src="https://i.imgur.com/dnq5e35.png" width="600" height="450">
+<img src="https://i.imgur.com/dnq5e35.png" width="4500" height="450">
 
 ### 🏪 Store discounts     
 <img src="https://i.imgur.com/2szLEcW.jpg" width="200" height="450">  
