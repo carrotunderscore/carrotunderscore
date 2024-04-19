@@ -5,7 +5,7 @@ Passionate coder living in CPH!
 🏔️ Love climbing  
 
 ## What I'm up to ❤️‍🔥:  
-Creating a file organizer in C#. I'm inspired by the application WizTree!
+Creating a portfolio website using Django in Python!
 
 ## What I've done 🍇:  
 ### 🏪 Store discounts     
