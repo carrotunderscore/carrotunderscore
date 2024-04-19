@@ -8,6 +8,9 @@ Passionate coder living in CPH!
 Creating a portfolio website using Django in Python!
 
 ## What I've done 🍇:  
+## Django webpage
+<img src="https://imgur.com/a/gh6Bczq" width="900" height="450">
+
 ### 🏪 Store discounts     
 <img src="https://i.imgur.com/2szLEcW.jpg" width="200" height="450">  
 
