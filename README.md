@@ -8,7 +8,7 @@ Passionate coder living in CPH!
 Creating a portfolio website using Django in Python!
 
 ## What I've done 🍇:  
-## Django webpage
+## Django cyberpunk theme inspired design with the Cats API
 <img src="https://i.imgur.com/dnq5e35.png" width="450" height="450">
 
 ### 🏪 Store discounts     
