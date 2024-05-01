@@ -9,7 +9,7 @@ Creating a portfolio website using Django in Python!
 
 ## What I've done 🍇:  
 ## Django cyberpunk theme inspired design with the Cats API
-<img src="https://i.imgur.com/dnq5e35.png" width="450" height="450">
+<img src="https://imgur.com/T17PJBc" width="450" height="450">
 
 ### 🏪 Store discounts     
 <img src="https://i.imgur.com/2szLEcW.jpg" width="200" height="450">  
