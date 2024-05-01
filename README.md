@@ -30,6 +30,7 @@ Javascript
 Bootstrap  
 Html/Css  
 Android studio  
+
 React
 Python 
 Django
