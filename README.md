@@ -14,10 +14,12 @@ Creating a portfolio website using Django in Python!
 ## Messing around with the Cat API making a cyberpunk themed inspired page.
 <img src="https://i.imgur.com/dnq5e35.png">
 
-### 🏪 Store discounts     
+### 🏪 Store discounts   
+#### An app I made that gets you discounts from Netto and Føtex stores.
 <img src="https://i.imgur.com/2szLEcW.jpg" width="200" height="450">  
 
 ### 🏭 One Ami  
+#### The web site I worked on at One Nordic.
 <img src="https://i.imgur.com/RYUpuvn.png" width="900" height="450">  
 
 
