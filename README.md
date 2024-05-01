@@ -7,7 +7,7 @@ Passionate coder living in CPH!
 ## What I'm up to ❤️‍🔥:  
 Creating a portfolio website using Django in Python!
 
-## What I've done 🍇:  
+# What I've done 🍇:  
 ## Almost done with my portfolio website!
 <img src="https://i.imgur.com/T17PJBc.png">
 
