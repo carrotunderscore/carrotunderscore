@@ -30,10 +30,13 @@ Javascript
 Bootstrap  
 Html/Css  
 Android studio  
+React
+Python 
+Django
 
   
 ## 📫 How to reach me:   
-📞+46 73 041 27 23  
+📞+46 73 041 27 23 or my danish number: 📞 +45 50 21 38 90  
 ✉️robertpergustafsson@gmail.com   
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/robert-gustafsson-bba35b1ba/)
 &nbsp;
